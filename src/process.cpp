@@ -2,6 +2,7 @@
 #include <Windows.h>
 
 #include "pch.h"
+#include "login.cpp";
 
 using namespace std;
 
@@ -28,6 +29,8 @@ void findProcess() {
 
 int main() {
   
+  while getLogin() {
+  
   findProcess();
   
   if (!findProcess()) {
@@ -39,7 +42,9 @@ int main() {
     Sleep(1000);
   }
   
-  return 0;
+  return 1;
+  }
   
+  return 0;
 }
  
