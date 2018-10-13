@@ -33,7 +33,7 @@ void getLogin() {
     return 0;
 } else {
     system("color a");
-    cout << "Success! Logged into username. Checking password... << endl;
+    cout << "Success! Logged into username. Checking password..." << endl;
     Sleep(6000);
 }
   
