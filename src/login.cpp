@@ -1,5 +1,6 @@
 #include <iostream>
 #include <Windows.h>
+#include <string>
 
 #include "pch.h"
 #include "process.cpp"
