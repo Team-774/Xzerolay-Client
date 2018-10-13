@@ -30,3 +30,5 @@ This project is protected under [GNU Generic Public License v3](https://www.gnu.
 Languages used in Xzerolay, for reference:
 - C#
 - C++
+- HTML
+- JavaScript
