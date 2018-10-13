@@ -23,7 +23,6 @@ Xzerolay uses several major online database and networking tools, and languages 
 We use standard measurements and release counts for the number of version it is.
 ### Authors
 - null 774 - *Initial Work / Creator* - [YouTube](https://www.youtube.com/channel/UC1fGiTy_GQbDc6hEOb4FZRQ)
-- edge_lxrd - *Side-scripting in Visual Studio* - N/A
 - LJarvinen - *Assistant to null 774 / Side-C++ & C#* - [GitHub](https://github.com/LJarvinen)
 ### License
 This project is protected under [GNU Generic Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
@@ -31,4 +30,3 @@ This project is protected under [GNU Generic Public License v3](https://www.gnu.
 Languages used in Xzerolay, for reference:
 - C#
 - C++
-- Visual Basic
